@@ -38,13 +38,13 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/build-ml-pipeline-for-short-term-rental-prices.git
+git clone https://github.com/danatemag/rentals.git
 ```
 
 and go into the repository:
 
 ```
-cd build-ml-pipeline-for-short-term-rental-prices
+cd rentals
 ```
 Commit and push to the repository often while you make progress towards the solution. Remember 
 to add meaningful commit messages.
